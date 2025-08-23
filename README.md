@@ -20,3 +20,46 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohan92&show_icons=true&locale=en" alt="mohan92" /></p>
 
+# Hi there, I'm [Your Name] 👋
+
+I'm an embedded systems enthusiast passionate about bringing hardware to life through robust and efficient code. My focus lies in developing solutions for IoT, real-time applications, and low-level hardware interaction.
+
+---
+
+### 🛠️ Skills & Technologies
+
+*   **Languages:** C, C++, Python
+*   **Microcontrollers:** STM32, ESP32, AVR
+*   **RTOS:** FreeRTOS, bare-metal
+*   **Protocols:** I2C, SPI, UART, CAN, LoRaWAN
+*   **Tools:** PlatformIO, VS Code, Git, Logic Analyzers
+
+---
+
+### ✨ Featured Projects
+
+#### [Project Name 1]
+A brief description of Project 1, highlighting its purpose and key embedded systems aspects (e.g., "Developed a low-power sensor node using ESP32 and FreeRTOS for environmental monitoring.").
+*   **Technologies:** ESP32, FreeRTOS, [Sensor Name], MQTT
+*   [Link to Project 1 Repository]
+
+#### [Project Name 2]
+A brief description of Project 2 (e.g., "Implemented a motor control system with PID regulation on an STM32 microcontroller.").
+*   **Technologies:** STM32, PID Control, Stepper Motor Drivers
+*   [Link to Project 2 Repository]
+
+---
+
+### 🚀 Interests
+
+*   Internet of Things (IoT)
+*   Robotics & Automation
+*   Embedded Linux
+*   Firmware Optimization
+
+---
+
+###   /span>  Connect with me
+
+*   [LinkedIn Profile]
+*   [Personal Website/Blog (Optional)]
