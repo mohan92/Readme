@@ -1,9 +1,4 @@
 <h1 align="center">Hi 👋, I'm Mohanraj</h1>
-# Hi there, I'm [Your Name] 👋
-
-I'm an embedded systems enthusiast passionate about bringing hardware to life through robust and efficient code. My focus lies in developing solutions for IoT, real-time applications, and low-level hardware interaction.
-
----
 <h3 align="center">A passionate developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohan92&label=Profile%20views&color=0e75b6&style=flat" alt="mohan92" /> </p>
@@ -24,6 +19,13 @@ I'm an embedded systems enthusiast passionate about bringing hardware to life th
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohan92&show_icons=true&locale=en&layout=compact" alt="mohan92" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohan92&show_icons=true&locale=en" alt="mohan92" /></p>
+
+
+# Hi there, I'm [Your Name] 👋
+
+I'm an embedded systems enthusiast passionate about bringing hardware to life through robust and efficient code. My focus lies in developing solutions for IoT, real-time applications, and low-level hardware interaction.
+
+---
 
 
 ### 🛠️ Skills & Technologies
