@@ -37,7 +37,13 @@ Focus is on bringing hardware to life through robust and efficient code. Experti
 *   **Peripherals & Protocols:** I2C, SPI, UART, CAN, ADC, PWM, TCP/IP, Bluetooth LE
 *   **Tools & IDEs:** VS Code, Eclipse, PlatformIO, Keil uVision, JTAG/SWD debugging
 *   **Version Control:** Git
-
+Category	Skills and Tools
+Languages	C, C++, Python, Assembly (ARM)
+Microcontrollers	STM32, ESP32, AVR, TI C2000
+RTOS & Firmware	FreeRTOS, Zephyr, bare-metal programming
+Protocols	I2C, SPI, UART, CAN, LoRaWAN, Bluetooth LE, TCP/IP
+Tools & IDEs	VS Code, PlatformIO, Eclipse, Keil uVision, Git, JTAG/SWD Debugging, Logic Analyzers
+Focus is on bringing hardware to life through robust and efficient code. Expertise includes developing solutions for IoT, real-time applications, and low-level hardware interaction
 ---
 
 #### ⚡ **GitHub Stats:**
